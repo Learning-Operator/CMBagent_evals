@@ -1,0 +1,4 @@
+.venv
+.env
+HumanEval/completions.jsonl
+HumanEval/completions_results.jsonl
