@@ -18,7 +18,7 @@ This repository contains benchmarking scripts and results for evaluating cmbagen
 ## Current Results
 
 ### HumanEval Results
-**Model:** cmbagent engineer agent with GPT-4o-mini  
+**Model:** cmbagent one-shot mode, engineer agent with GPT-4o-mini  
 **Configuration:** 30 problems × 15 completions (450 total evaluations)
 
 | Metric | Score | Percentage |
