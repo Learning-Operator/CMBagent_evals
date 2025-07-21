@@ -2,3 +2,10 @@
 .env
 HumanEval/completions.jsonl
 HumanEval/completions_results.jsonl
+domain_specific_benchmarks/personal_benchmarking
+broad_benchmarks/humaneval/human-eval
+broad_benchmarks/humaneval/cmbagent_output
+domain_specific_benchmarks/TP_bench_public_dataset/results
+domain_specific_benchmarks/TP_bench_public_dataset/results_1
+domain_specific_benchmarks/TP_bench_public_dataset/results_2
+domain_specific_benchmarks/TP_bench_public_dataset/outputs
