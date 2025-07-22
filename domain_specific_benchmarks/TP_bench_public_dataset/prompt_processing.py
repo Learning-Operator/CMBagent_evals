@@ -41,6 +41,8 @@ def run_eval_agent(api_key: str, correct: str, test: str, max_retries:int=3):
                 8. Ignore minor formatting differences like spacing or LaTeX syntax variations.
                 9 if the resultant answer is "null", you are to score the answer as wrong.
 
+                Make sure to also pay attention to the reasoning for the response from the model in your evaluation of wether the response is correct.
+
                 IMPORTANT: You must respond with EXACTLY ONE NUMBER:
                 - Output "1" if the solutions are mathematically equivalent/correct
                 - Output "0" if the solutions are different/incorrect
@@ -241,6 +243,7 @@ def benchmark_problem(
         You are solving a theoretical physics problem from the TPBench benchmark.
 
         ALL ANSWERS MUST BE PLACED IN A `results.md` FILE, OTHERWISE YOUR OUTPUT WILL BE CONSIDERED INCORRECT.
+
 
         ### Required Procedure:
             1. **Solve the problem step by step**, showing all intermediate work and derivations.
