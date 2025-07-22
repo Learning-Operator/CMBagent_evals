@@ -83,12 +83,6 @@ Each problem was attempted with 5 completions (50 total per run). The goal was t
 | 8          | 0 / 5            | 0%            |
 | 9          | 5 / 5            | 100%          |
 
----
-
-### Run 2: Evaluation with Finalized Prompt
-
-**Model:** CMBAgent with GPT-4o-mini
-
 #### Performance Metrics
 - **Accuracy**: 46% (23/50)
 - **Pass@1**: 0.46
