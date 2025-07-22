@@ -41,7 +41,7 @@ This repository contains benchmarking scripts and results for evaluating CMBAgen
 
 #### Overview
 
-Each problem was attempted with 5 completions (50 total per run). The goal was to measure the model’s reasoning accuracy and coverage under different prompt conditions.
+Each problem was attempted with 5 completions (50 total per run).
 
 ---
 
