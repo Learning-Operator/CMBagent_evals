@@ -20,7 +20,7 @@ Each problem was attempted with 5 completions (50 total per run). The goal was t
 
 
 
-## Run 1: TPBench Public Dataset Results (Initial Prompt)
+## Run 1: TPBench Public Dataset Results
 
 ### Performance Metrics
 - **Accuracy**: 56% (28/50)
@@ -44,7 +44,7 @@ Each problem was attempted with 5 completions (50 total per run). The goal was t
 
 
 
-## Run 2: Evaluation with Finalized Prompt
+## Run 2
 
 ### Performance Metrics
 - **Accuracy**: 46% (23/50)
